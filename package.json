@@ -1,0 +1,15 @@
+{
+  "name": "ar-notebook",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.0.0",
+    "aframe": "^1.4.2",
+    "ar.js": "^3.4.5"
+  }
+}
